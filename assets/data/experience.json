@@ -1,0 +1,102 @@
+{
+  "aboutMe": "Soy Asesor Tecnico Comercial en Pinturas, Instructor y Capacitador. Cuento con mas de 30 años de experiencia en el rubro, asesoro sobre la utilizacion de distintos tipos de pinturas tanto para hogar y obras como para industria standard y el tratamiento de multiples superficies. Tambien realizo asesoramientos tanto a personal vendedor de pinturerias, como a pintores y profesionales. Especialista en analizar y responder a objeciones sobre problemas resultantes de superficies pintadas. Preparo esquemas de pintado para la confeccion de especificaciones tecnicas varias. Dictado de cursos completos sobre la fabricacion y utilizacion de las pinturas, asi como tambien sobre las patologias mas frecuentas que se presentan",
+  "experience": [
+    {
+      "name": "Best Paint S.A.",
+      "url": "https://aikepinturas.com.ar/",
+      "position": "Asesor y promotor tecnico",
+      "dates": "Febrero 2017 - Marzo 2023",
+      "company_type": "Fabricante de pinturas",
+      "job_description": "Tareas de asesoramiento y promocion técnica general, a clientes, vendedores, pintores y profesionales. Capacitación técnica general, de productos y patologias de superficies. Servicio de Posventa con atención personalizada de objeciones y/o reclamos tanto de clientes como de usuarios, brindando la solución posible para cada caso.",
+      "tasks": [
+        "Visitar a clientes para la atencion posventa",
+
+        "Asesorar a vendedores y/o pintores",
+        "Atender objeciones de clientes y usuarios y brindar las soluciones adecuadas",
+        "Capacitar a pintores y profesionales del rubro",
+        "Realizar giras y viajes de promocion de nuevas pinturas y lineas de productos existentes"
+      ],
+      "tools": [
+        "Accesorios para la presentacion de productos, banners, paneles para aplicar pinturas y proyectores visuales",
+        "Excel, word y Power Point entre otras",
+        "Folleteria y documentacion tecnica provistas por la empresa"
+      ]
+    },
+    {
+      "name": "C.E.P.R.A.R.A.",
+      "url": "https://ceprara.org.ar/",
+      "position": "Instructor Curso Pintor Profesional Progama FIT de CABA",
+      "dates": "Marzo 2017 - Noviembre 2023",
+      "company_type": "Camara que agrupa empresas de aplicacion de pinturas y fabricas",
+      "job_description": "Dictado de cursos de capacitacion cuatrimestrales de 2 años de duracion, teorico y practico",
+      "tasks": [
+        "Capacitar a emprendedores, pintores y trabajadores afines para realizar tareas de pintura y revestimientos",
+        "Brindar conocimientos teoricos y practicos para un correcto desempeño en sus trabajos"
+      ],
+      "tools": [
+        "Accesorios para las clases teoricas, paneles para la aplicacion de pinturas y proyectores visuales",
+        "Excel, word y Power Point",
+        "Videos explicativos de apoyo"
+      ]
+    },
+    {
+      "name": "Sinteplast S.A.",
+      "url": "https://sinteplast.com.ar/",
+      "position": "Representante de ventas",
+      "dates": "Mayo 2005 - Noviembre 2016",
+      "company_type": "Fabricante de pinturas",
+      "job_description": "Gestion de ventas y cobranzas en zona sur-sudoeste de GBA",
+      "tasks": [
+        "Atencion de clientes actuales y potenciales",
+        "Elaborar las estrategias de ventas adecuadas",
+        "Fomentar la fidelizacion de los mismos con la empresa",
+        "Analisis del mercado y comparativas por producto",
+        "Carga de pedidos y cobranzas de lo facturado",
+        "Proyectar anualmente los litros de pintura a vender"
+      ],
+      "tools": [
+        "Capacitacion propia de la empresa y estrategias elaboradas con jefatura",
+        "Excel, word, Power Point, bases de datos, entre otras",
+        "Folleteria y documentacion tecnica provistas por la empresa"
+      ]
+    },
+    {
+      "name": "Sinteplast S.A.",
+      "url": "https://sinteplast.com.ar/",
+      "position": "Asesor y promotor tecnico",
+      "dates": "Enero 1995 - Abril 2005",
+      "company_type": "Fabricante de pinturas",
+      "job_description": "Tareas de asesoramiento y promocion técnica general, a clientes, vendedores, pintores y profesionales. Capacitación técnica general, de productos y patologias de superficies. Servicio de Posventa con atención personalizada de objeciones y/o reclamos tanto de clientes como de usuarios, brindando la solución posible para cada caso.",
+      "tasks": [
+        "Visitar a clientes para la atencion posventa",
+        "Atender objeciones de clientes y usuarios y brindar las soluciones adecuadas",
+        "Asesorar a vendedores y/o pintores",
+        "Capacitar a pintores y profesionales del rubro",
+        "Realizar giras y viajes de promocion de nuevas pinturas y lineas de productos existentes"
+      ],
+      "tools": [
+        "Accesorios para la presentacion de productos, banners, paneles para aplicar pinturas y proyectores visuales",
+        "Excel, word y Power Point entre otras",
+        "Folleteria y documentacion tecnica provistas por la empresa"
+      ]
+    },
+    {
+      "name": "Caja de Ahorro y Seguro S.A.",
+      "url": "https://seguros.lacaja.com.ar/",
+      "position": "Ayudante tecnico",
+      "dates": "Julio 1979 - Octubre 1994",
+      "company_type": "Entidad Bancaria y de Seguros",
+      "job_description": "Tareas en oficina de Mantenimiento tecnico",
+      "tasks": [
+        "Confeccionar pliegos para licitaciones privadas y publicas",
+        "Preadjudicacion tecnica de licitaciones en Actuaciones y Expedientes",
+        "Direccion tecnica y seguimiento de los trabajos de refaccion y mantenimiento",
+        "Confeccionar pliegos para la compra de materiales para los talleres propios"
+      ],
+      "tools": [
+        "Resoluciones internas de La Caja",
+        "Elementos propios de las actuaciones administrativas y tecnicas"
+      ]
+    }
+  ]
+}

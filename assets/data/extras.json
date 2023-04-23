@@ -1,0 +1,23 @@
+{
+  "personal_skills": "Especial atencion en la gestion estableciendo una buena relacion con los clientes, enfocado en la exitosa resolucion de problemas y rapidez en la respuesta tanto hacia los clientes como al usuario final",
+  "extras": [
+    {
+      "title": "Cursos y Seminarios",
+      "list": [
+        "Oratoria Moderna (Comunicación General Profesional)",
+        "Herramientas de Gestión de Atención al Cliente ",
+        "Excelencia en Ventas",
+        "Humedad en Albañilería y Revestimientos",
+        "Formación de Instructores para Formación Profesional",
+        "Pinturas Ignífugas e Intumescentes"
+      ]
+    },
+    {
+      "title": "Idiomas",
+      "list": [
+        "Ingles: Basico",
+        "Español: Nativo"
+      ]
+    }
+  ]
+}
