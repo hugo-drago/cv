@@ -7,6 +7,10 @@ import { MainCvComponent } from './components/main-cv/main-cv.component';
 import { HeaderComponent } from './components/header/header.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { HtmlToPdfComponent } from './components/html-to-pdf/html-to-pdf.component';
+import { MainComponent } from './components/main/main.component';
+import { PathologiesComponent } from './components/pathologies/pathologies.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
+import { MdbCollapseModule } from 'mdb-angular-ui-kit/collapse';
 
 @NgModule({
   declarations: [
@@ -14,11 +18,15 @@ import { HtmlToPdfComponent } from './components/html-to-pdf/html-to-pdf.compone
     MainCvComponent,
     HeaderComponent,
     FooterComponent,
-    HtmlToPdfComponent
+    HtmlToPdfComponent,
+    MainComponent,
+    PathologiesComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MdbCollapseModule
   ],
   providers: [],
   bootstrap: [AppComponent]
