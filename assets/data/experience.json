@@ -2,6 +2,27 @@
   "aboutMe": "Soy Asesor Tecnico Comercial en Pinturas, Instructor y Capacitador. Cuento con mas de 30 años de experiencia en el rubro, asesoro sobre la utilizacion de distintos tipos de pinturas tanto para hogar y obras como para industria standard y el tratamiento de multiples superficies. Tambien realizo asesoramientos tanto a personal vendedor de pinturerias, como a pintores y profesionales. Especialista en analizar y responder a objeciones sobre problemas resultantes de superficies pintadas. Preparo esquemas de pintado para la confeccion de especificaciones tecnicas varias. Dictado de cursos completos sobre la fabricacion y utilizacion de las pinturas, asi como tambien sobre las patologias mas frecuentas que se presentan",
   "experience": [
     {
+      "name": "Propimat SRL",
+      "url": "https://aikepinturas.com.ar/",
+      "position": "Asesor y promotor tecnico",
+      "dates": "Agosto 2023 - Actual",
+      "company_type": "Fabricante de pinturas",
+      "job_description": "Tareas de asesoramiento y promocion técnica general, a clientes, vendedores, pintores y profesionales. Capacitación técnica general, de productos y patologias de superficies. Servicio de Posventa con atención personalizada de objeciones y/o reclamos tanto de clientes como de usuarios, brindando la solución posible para cada caso.",
+      "tasks": [
+        "Visitar a clientes para la atencion posventa",
+
+        "Asesorar a vendedores y/o pintores",
+        "Atender objeciones de clientes y usuarios y brindar las soluciones adecuadas",
+        "Capacitar a pintores y profesionales del rubro",
+        "Realizar giras y viajes de promocion de nuevas pinturas y lineas de productos existentes"
+      ],
+      "tools": [
+        "Accesorios para la presentacion de productos, banners, paneles para aplicar pinturas y proyectores visuales",
+        "Excel, word y Power Point entre otras",
+        "Folleteria y documentacion tecnica provistas por la empresa"
+      ]
+    },
+    {
       "name": "Best Paint S.A.",
       "url": "https://aikepinturas.com.ar/",
       "position": "Asesor y promotor tecnico",
